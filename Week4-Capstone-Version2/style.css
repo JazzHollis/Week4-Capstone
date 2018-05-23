@@ -1,0 +1,90 @@
+﻿
+
+body {
+    background-color: white;
+    font-family: "Open Sans", sans-serif;
+    padding: 5px 25px;
+    font-size: 18px;
+    margin: 0;
+    color: saddlebrown;
+}
+
+
+
+h1 {
+    font-family: "Century Gothic", sans-serif;
+    font-size: 55px;
+    text-align: center;
+   
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;  
+}
+
+.content {
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.item {
+    width: 400px;
+    padding: 5px;
+    border: 1px brown solid;
+    
+}
+
+    .item h3 {
+        color: saddlebrown;
+        text-align: center;
+        padding: 15px;
+        text-align: center;
+    }
+
+    .item img {
+        display: block;
+        margin: 0 auto;
+    }
+
+#cart {
+    font-size: 20pt;
+    color: saddlebrown;
+    padding: 10px;
+    text-decoration-line: none;
+  
+}
+
+.item button {
+    margin: 0 auto;
+    background-color: darkorange;
+    color: white;
+    padding: 5px;
+    font-size: 16px;
+    font-family: 'Century Gothic', sans-serif;
+}
+
+.item p {
+    text-align: center;
+}
+
+table.table1 {
+    
+  
+    background-color: none;
+    padding-bottom: 50px;
+    margin: 0 auto;
+    width: 750px;
+    border: none;
+    text-align: center;
+
+    
+}
+
+table.table2 {
+    width: 750px;
+    margin: 0 auto;
+    border: thin;
+    background-color: tan;
+}

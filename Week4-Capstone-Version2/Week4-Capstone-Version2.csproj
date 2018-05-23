@@ -75,6 +75,17 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\AngusSteakburgerOlga-1.jpg" />
+    <Content Include="images\GrilledChickenOlga-1.jpg" />
+    <Content Include="images\MediterraneanOlga-2.jpg" />
+    <Content Include="images\OrangeCreamCooler-1.jpg" />
+    <Content Include="images\OriginalOlga-1.jpg" />
+    <Content Include="images\salad.jpg" />
+    <Content Include="images\Snackers.jpg" />
+    <Content Include="images\SpinachPie.jpg" />
+    <Content Include="images\VeggieOlga-1.jpg" />
+    <Content Include="index.html" />
+    <Content Include="style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
