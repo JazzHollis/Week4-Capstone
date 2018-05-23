@@ -61,8 +61,10 @@
             output += "<tr><td>"+names[i]+"</td><td>"+qty[i]+"</td><td>$"+prices[i]+"</td><td> $"+
             parseFloat(Math.round((qty[i] * prices[i]) * 100) / 100).toFixed(2)
               +"</td></tr>";
+            }
+
           }
-        }
+        output += "</table><br /><h2>Total Bill: $" + parseFloat(Math.round(calculate() * 100) / 100).toFixed(2);
         elem.innerHTML = output;
       }
 
